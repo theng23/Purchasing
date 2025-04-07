@@ -1,4 +1,4 @@
-# Purchasing_PBI
+# Purchasing
 ## I. Introduction
 1. **Business question** \
 The management expects that the goods ordered are sufficient for sales, on time, and at optimal import prices. Create an Operation Dashboard to provide a visual and easy-to-understand picture to helping them make better decisions and operations.
