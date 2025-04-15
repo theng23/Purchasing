@@ -1,4 +1,4 @@
-# Purchasing Bicycle Dashboard| Power BI
+# 📊Purchasing Bicycle Dashboard| Power BI
 ## I. Introduction
 ### 📖 What is this project about?
 - This project leverages the AdventureWorks dataset to analyze business operations and extract insights for a fictional bicycle purchasing company.
