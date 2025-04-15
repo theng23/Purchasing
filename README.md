@@ -48,7 +48,7 @@
 | DiscontinuedDate    | Date          | The date when the product was discontinued.                            |
 | ModifiedDate        | Date          | The date when the product information was last modified.               |
 
-
+  
 </details>
 
 <details> 
