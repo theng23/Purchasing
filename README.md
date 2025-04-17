@@ -199,9 +199,36 @@ Here are the five steps of design thinking:
 
 ## III. Visualization
 ### 1. Overview
-![Overview](https://github.com/user-attachments/assets/5eab8a72-f42c-4488-9c0e-f361d8a7f4c1)
+
+![8a70bb2c-7561-4b3c-838f-953a6748fa39](https://github.com/user-attachments/assets/d8d6e6d0-8f1b-4921-8442-3d3ca7d993f9)
+
+
 ### 2. Status Orders
-![Status-Order](https://github.com/user-attachments/assets/0f5425ed-2c09-4da6-9d7a-44e249e35f71)
+**Overview of Status Orders**
+
+![38b24d8c-7151-4b34-a4a5-df0911de21fe](https://github.com/user-attachments/assets/c2b30bd8-b4e5-452a-96a2-5fb108c67cfe)
+
+**Approved**
+
+![6c6c2ef9-e002-46f0-8229-90b60dc8198b](https://github.com/user-attachments/assets/632f6da7-4724-4055-afaa-d21907631755)
+
+**Complete**
+
+![6a6ff724-831f-453a-ba92-60f3a11a2b9e](https://github.com/user-attachments/assets/e62ac6bd-21ed-47ae-a417-9bd41ad8fed1)
+
+
+
+
+**Pending**
+
+![6d2345dd-f50b-4dfb-83f6-419add5adb7e](https://github.com/user-attachments/assets/2ba30bf1-72ec-4989-81d3-e9378fb8d2b0)
+
+
+**Reject**
+
+![895b8a01-d50d-45f0-85bc-7afe6864f614](https://github.com/user-attachments/assets/2dc6383b-8f88-4fd2-a22e-3c3aeaf85fae)
+
+
 
 ## IV. Insight and Recommendation:
 ### Insight
